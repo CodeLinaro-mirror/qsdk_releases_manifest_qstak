@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://git.codelinaro.org" name="clo" review="codelinaro.org"/>
+  <default remote="clo" revision="win.atf.3.0"/>
+  <project name="clo/qsdk/atf-qsdk/arm-trusted-firmware" path="qsdk/qca/src/atf/arm-trusted-firmware" revision="f80b57ea965cc559b89b278ebcc25c427356c0f3" upstream="win.atf.3.0"/>
+</manifest>
