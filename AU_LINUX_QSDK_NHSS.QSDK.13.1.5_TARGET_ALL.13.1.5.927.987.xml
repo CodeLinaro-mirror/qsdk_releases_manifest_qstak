@@ -60,7 +60,7 @@
   <project remote="clo-qsdk" name="oss/system/feeds/wlan-iw" path="qsdk/openwrt-patches/package/network/utils/iw" revision="b37f14eba7130acb3ad163943ce12dc7b0c9770e" upstream="refs/heads/win.wlan_host_opensource.4.0.r30"/>
   <project remote="clo-qsdk" name="oss/system/feeds/wlan-open" path="qsdk/qca/feeds/wlan-open/mac80211" revision="2d3265420344002457029b43e627304e8ff396d6" upstream="refs/heads/win.wlan_host_opensource.4.0.r30"/>
   <project remote="clo-qsdk" name="oss/system/feeds/wlan/utils" path="qsdk/qca/feeds/wlan_utils" revision="fc9b1e509bfab2371e61b6810a219d926c5db8a1" upstream="refs/heads/win.wlan_host_opensource.4.0.r30"/>
-  <project remote="clo-qsdk" name="oss/system/openwrt" path="qsdk" revision="ce0abddf8ba8ee163c0dac71fca25a4bab55d12f" upstream="refs/heads/win.openwrt.24.00.r30"/>
+  <project remote="clo-qsdk" name="oss/system/openwrt_repo" path="qsdk" revision="ce0abddf8ba8ee163c0dac71fca25a4bab55d12f" upstream="refs/heads/win.openwrt.24.00.r30"/>
   <project remote="clo-qsdk" name="oss/system/openwrt-ipq-patches" path="openwrt-ipq-patches" revision="44db7d76825fb9331c79fb91b868f69085f9af2b" upstream="refs/heads/win.openwrt.24.00.r30"/>
   <project remote="clo-qsdk" name="oss/system/openwrt-patches" path="qsdk/openwrt-patches" revision="09d3af8f5bd9dde0ec6dec16f2a8cae361e5ebb6" upstream="refs/heads/win.openwrt.24.00.r30"/>
   <project remote="clo-qsdk" name="oss/system/openwrt/ipq-scripts" path="qsdk/ipq-scripts" revision="5b5a0d0a9443f51191f922617c1f5e6bd1190700" upstream="refs/heads/win.platform_tools.1.0.r30"/>
