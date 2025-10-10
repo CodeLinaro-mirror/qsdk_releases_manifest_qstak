@@ -64,7 +64,7 @@
   <project remote="clo-qsdk" name="oss/system/openwrt-ipq-patches" path="openwrt-ipq-patches" revision="44db7d76825fb9331c79fb91b868f69085f9af2b" upstream="refs/heads/win.openwrt.24.00.r30"/>
   <project remote="clo-qsdk" name="oss/system/openwrt-patches" path="qsdk/openwrt-patches" revision="09d3af8f5bd9dde0ec6dec16f2a8cae361e5ebb6" upstream="refs/heads/win.openwrt.24.00.r30"/>
   <project remote="clo-qsdk" name="oss/system/openwrt/ipq-scripts" path="qsdk/ipq-scripts" revision="5b5a0d0a9443f51191f922617c1f5e6bd1190700" upstream="refs/heads/win.platform_tools.1.0.r30"/>
-  <project remote="clo-qsdk" name="oss/system/tools" path="qsdk/qca/src/qca-ramparser" revision="b9f28d6a249d980ff490c1bffad6e203d61a2764" upstream="refs/heads/win.platform_tools.1.0.r30"/>
+  <project remote="clo-qsdk" name="oss/system/tools_repo" path="qsdk/qca/src/qca-ramparser" revision="b9f28d6a249d980ff490c1bffad6e203d61a2764" upstream="refs/heads/win.platform_tools.1.0.r30"/>
   <project remote="clo-qsdk" name="oss/system/tools/meta" path="meta-tools-oss" revision="7c4c0621759d06c7c2d7f21087ac558de749b9f2" upstream="refs/heads/win.platform_tools.1.0.r30"/>
   <project remote="clo-qsdk" name="oss/trex/omciibc" path="qsdk/qca/src/omciibc" revision="869f7e80c39afd26cbcd62bc39a8556efe5fcf2d" upstream="refs/heads/win.pon.1.0.r30"/>
   <project remote="clo-qsdk" name="oss/trex/sw-hook" path="qsdk/qca/src/sw-hook" revision="3edf3086b78b9ee5b3a78656739ed3672ca5f2fb" upstream="refs/heads/win.pon.1.0.r30"/>
