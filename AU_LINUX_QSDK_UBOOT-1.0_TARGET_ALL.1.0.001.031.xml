@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="clo" fetch="https://git.codelinaro.org" review="codelinaro.org"/>
+  <default remote="clo" revision="uboot-1.0"/>
+  <project name="clo/boot/u-boot" path="uboot_image/u-boot" revision="53009984fbf640b3ec5741874ab0bc7ee07c28ea" upstream="refs/heads/uboot-1.0"/>
+</manifest>
