@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="clo" fetch="https://git.codelinaro.org" review="codelinaro.org"/>
+  <default remote="clo" revision="win.optee.1.0"/>
+  <project name="clo/trusted-firmware/optee_examples/optee_examples" path="trusted-firmware/optee_examples" revision="095af29a33b993e4ecd8780b1e2c473c5c1c9c9a" upstream="win.optee_examples.1.0"/>
+  <project name="clo/trusted-firmware/optee_os/optee_os" path="trusted-firmware/optee_os" revision="10c2fd71cc60b9959ef442e49361f7715430e182" upstream="win.optee.1.0"/>
+</manifest>
