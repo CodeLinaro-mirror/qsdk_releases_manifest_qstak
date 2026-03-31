@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="clo" fetch="https://git.codelinaro.org" review="codelinaro.org"/>
+  <default remote="clo" revision="win.tfa.1.0"/>
+  <project name="clo/trusted-firmware/tf-a/trusted-firmware-a" path="trusted-firmware/trusted-firmware-a" revision="7a0b416c57b8e86acc900b7b46f2929d58b098b3" upstream="win.tfa.1.0"/>
+</manifest>
